@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 | --- | --- | --- |
 | 2023.05 ~ 2023.10 | <a href="https://github.com/TEAM-ALOM/plda-iOS">ChatGPT를 사용한 일기 기반 노래 추천 앱</a> | iOS | 
 | 2023.09 ~ 2023.11 | <a href="https://github.com/TEAM-TETRIS-Web/FocuStudy-iOS">집중 시간을 체크하고 경쟁하는 앱</a> | iOS |
-| 2023.09 ~ 2023.11 | <a href="https://github.com/TEAM-ALOM/interest-iOS">사용자 맞춤형 인터벌 트레이닝 앱</a> | iOS |
+| 2023.10 ~ 2024.04 | <a href="https://github.com/TEAM-ALOM/interest-iOS">사용자 맞춤형 인터벌 트레이닝 앱</a> | iOS |
 
