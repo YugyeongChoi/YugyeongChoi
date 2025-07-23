@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 #### 🏫 세종대학교 스마트기기전공 (2022~)
 #### 📚 [Blog](https://yugyeongchoi.tistory.com/)
 #### 🛠️ stack
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/React-61C9E5?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/React-61C9E5?style=for-the-badge&logo=React&logoColor=white"> <img src= "https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> <img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
 
 #### ⭐️ Project
